@@ -39,7 +39,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file](https://imgur.com/wak3X3V).gif' title='Video Demo' width='' alt='Video Demo' />
 
-here is the direct link if the gif above doesn't show in ReadMe: https://imgur.com/wak3X3V.gi
+here is the direct link if the gif above doesn't show in ReadMe: https://imgur.com/wak3X3V
 
 GIF created with ** [ScreenToGif](https://www.screentogif.com/) for Windows**
 
